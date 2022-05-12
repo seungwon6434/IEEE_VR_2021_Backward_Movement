@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - agent
+  - iWall
+  - banana
+  - wall
+  - badBanana
+  - pit
+  - frozenAgent
+  - ball
+  - redGoal
+  - blueGoal
+  - blueAgent
+  - redAgent
+  - redBlock
+  - goal
+  - ground
+  - orangeBlock
+  - block
+  - orangeGoal
+  - switchOff
+  - pyramid
+  - switchOn
+  - end
+  - normal
+  - start
+  - target
+  - stone
+  - walkableSurface
+  - PathGen
+  - begin
+  - finish
+  - Node
+  - fire
+  - FxTemporaire
+  - Door
+  - first
+  - second
+  - hand
+  - third
+  - sixth
+  - close_door
+  - eighth
+  - GROUND
+  - Canvas
+  - backok
+  - backok2
+  - male4
+  - firsttrigger
+  - secondtrigger
+  - camera1
+  - camera2
+  - camera3
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - invisible
+  - ball
+  - goalieWall
+  - goalie
+  - strikerWall
+  - striker
+  - 
+  - 
+  - Player
+  - 
+  - ffire
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: description
+    uniqueID: 318004883
+    locked: 0

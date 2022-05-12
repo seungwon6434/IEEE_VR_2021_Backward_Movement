@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c36c83b836f78b41ab40d39f5c57479, type: 3}
+  m_Name: cc_male_preset_3
+  m_EditorClassIdentifier: 
+  combinedMeshes:
+  - {fileID: 4300000, guid: 62e1e050c225ba54ca2b56f66551ff33, type: 2}
+  - {fileID: 4300000, guid: c7454d3fb8a183e459d6f0942d4fa4ee, type: 2}
+  - {fileID: 4300000, guid: ba759bc16e75ae449b614991d5d98bf5, type: 2}
+  - {fileID: 4300000, guid: 26ef11385fd47d249990dbb648d3ffe3, type: 2}
+  materials:
+  - {fileID: 2100000, guid: 3f3d17836a87ae942ac524d7020ac829, type: 2}
+  - {fileID: 2100000, guid: c747e3ee7e02eab4fa0fb2304ab4ef6e, type: 2}
+  bodyMat: {fileID: 2100000, guid: c747e3ee7e02eab4fa0fb2304ab4ef6e, type: 2}
+  animator: {fileID: 9100000, guid: 73dfba487f63297498cf4b2ae53f6fb5, type: 2}
+  avatar: {fileID: 9000000, guid: 1b8f3f34252d9ee44823ab05504b31a8, type: 3}
+  hipsScale: {x: 1.0158666, y: 1.0238, z: 1.0238}
+  headScale: {x: 1, y: 1, z: 1}
+  empty_rig: {fileID: 100048, guid: 0836940a0c3c807458e04c755397b1c9, type: 3}
+  prefab: {fileID: 0}
